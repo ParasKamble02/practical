@@ -1,3 +1,4 @@
+# !python -m spacy download en_core_web_lg
 import spacy
 
 nlp = spacy.load("en_core_web_lg")
